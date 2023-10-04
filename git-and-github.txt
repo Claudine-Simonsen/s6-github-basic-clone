@@ -1,0 +1,3 @@
+I learned how to create a repository.
+I learned how to switch branches.
+I learned how to push changes to gitHub

@@ -1,3 +1,6 @@
 I learned how to clone a repository.
 I learned how create a remote.
 I leared about SSH keys.
+I learned how to create a repository.
+I learned how to switch branches.
+I learned how to push changes to gitHub
